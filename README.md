@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요~ 박지훈의 깃허브 입니다!
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
