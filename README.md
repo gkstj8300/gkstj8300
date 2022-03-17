@@ -1,6 +1,8 @@
 ### 안녕하세요~ 박지훈의 깃허브 입니다!
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Android-#007396?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **ParkHanSeo/ParkHanSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
