@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#fbf1c7&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
 <div>
 
 <div align="center">
