@@ -8,11 +8,11 @@
 </div>
 
 
-
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo)](https://github.com/ParkHanSeo/github-readme-stats)
  
-<div><a href="https://github.com/ParkHanSeo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHanSeo&layout=compact&theme=buefy&hide_border=true" /></a>
-</div>
+[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ParkHanSeo&layout=compact&hide=HTML,CSS,SCSS&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)  </div>
+
 
 
 
