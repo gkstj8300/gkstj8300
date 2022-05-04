@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=white&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
