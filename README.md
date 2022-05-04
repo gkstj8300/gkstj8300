@@ -9,7 +9,8 @@
 
 
 <div align="center">
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo)](https://github.com/ParkHanSeo/github-readme-stats)
+  
+[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo&hide_title=true&show_icons=true&disable_animations=true&theme=vue)](https://github.com/ParkHanSeo/github-readme-stats)
  
 [![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ParkHanSeo&layout=compact&hide=HTML,CSS,SCSS&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)  </div>
 
