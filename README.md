@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
 <div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 <div align="center">
+  ✨Tech Stack✨
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
 </div>
 
