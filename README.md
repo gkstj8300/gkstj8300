@@ -4,8 +4,8 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
 
-👋👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/KrKanki" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrKanki&layout=compact&theme=buefy&hide_border=true" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/KrKanki" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHanSeo&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
