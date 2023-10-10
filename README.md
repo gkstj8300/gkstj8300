@@ -1,25 +1,36 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
-
-
-<div align="center">
-  ✨Tech Stack✨<br/><br/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+<div>
+	![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
 </div>
-<br/><br/>
 
-<div align="center">
-  
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo&hide_title=true&show_icons=true&disable_animations=true&theme=gruvbox_light)](https://github.com/ParkHanSeo/github-readme-stats)
- 
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ParkHanSeo&layout=compact&hide=HTML,CSS,SCSS&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)  </div>
-
-
-
-
-
- 
+<div align="left">
+	✨Tech Stack✨
+	<br/>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+		<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=black"/>
+		<img src="https://img.shields.io/badge/SpringBoot-6AA84F?style=flat-square&logo=springboot&logoColor=black"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=black"/>
+		<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/>
+		<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black"/>
+		<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=black"/>
+	</div>
+</div>
+<br/>
+<br/>
+<div align="left">
+	[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo&hide_title=true&show_icons=true&disable_animations=true&theme=gruvbox_light)](https://github.com/ParkHanSeo/github-readme-stats) 
+	[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ParkHanSeo&layout=compact&hide=HTML,CSS,SCSS&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)  
+</div>
 
 <!--
 **ParkHanSeo/ParkHanSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
