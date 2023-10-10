@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=slice&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20my%20is%20also%20git.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=200&text=slice&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20my%20is%20also%20git.&descAlign=70.&descAlignY=44&fontColor=white)
 
 <div align="left">
 	✨Tech Stack✨
