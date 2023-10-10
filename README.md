@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=300&section=header&text=ParkJeeHoonGit();&fontSize=70)
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="left">
 	✨Tech Stack✨
 	<br/>
