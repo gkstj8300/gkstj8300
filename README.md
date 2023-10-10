@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=300&section=header&text=ParkJeeHoon,%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=black&height=300&section=header&text=ParkJeeHoon,%20Git&fontSize=90)
 
 <div align="left">
 	✨Tech Stack✨
