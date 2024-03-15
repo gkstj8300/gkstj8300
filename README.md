@@ -24,14 +24,14 @@
 </div>
 <br/>
 
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHanSeo&hide_title=true&show_icons=true&disable_animations=true&theme=dark)](https://github.com/ParkHanSeo/github-readme-stats) 
-[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ParkHanSeo&layout=compact&hide=HTML,CSS,SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstj8300&hide_title=true&show_icons=true&disable_animations=true&theme=dark)](https://github.com/gkstj8300/github-readme-stats) 
+[![ParkJeeHoon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gkstj8300&layout=compact&hide=HTML,CSS,SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkstj8300)](https://solved.ac/gkstj8300/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkHanSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkstj8300&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
-**ParkHanSeo/ParkHanSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gkstj8300/gkstj8300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
