@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=black&fontColor=fff&height=200&text=ParkJeeHoon&fontAlign=70&rotate=13&fontAlignY=25&desc=%20%20%20_________welcome%20my%20git.&descAlign=70.&descAlignY=44)
-
 <div align="center">
 	✨Tech Stack✨
 	<br/>
