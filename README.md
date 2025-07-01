@@ -13,3 +13,11 @@
 
 ## Latest Blog Posts
 
+- [Php, RxJS에서 React, TypeScript로의 대전환 - 이커머스 리뉴얼 실무 경험 2편](https://www.baakhan.com/posts/Php,-RxJS에서-React,-TypeScript로의-대전환---이커머스-리뉴얼-실무-경험-2편)
+- [Php, RxJS에서 React, TypeScript로의 대전환 - 이커머스 리뉴얼 실무 경험 1편](https://www.baakhan.com/posts/Php,-RxJS에서-React,-TypeScript로의-대전환---이커머스-리뉴얼-실무-경험-1편)
+- [회사의 얼굴을 만드는 일 - IT 기업 홈페이지 리뉴얼기](https://www.baakhan.com/posts/회사의-얼굴을-만드는-일---IT-기업-홈페이지-리뉴얼기)
+- [FP 수수료 지급부터 차세대 시스템까지 - 한화생명 프로젝트 회고록](https://www.baakhan.com/posts/FP-수수료-지급부터-차세대-시스템까지---한화생명-프로젝트-회고록)
+- [퇴사 후 새로운 시작 전 회고](https://www.baakhan.com/posts/퇴사-후-새로운-시작-전-회고)
+
+
+
