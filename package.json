@@ -1,0 +1,15 @@
+{
+  "name": "gkstj8300",
+  "version": "1.0.0",
+  "description": "![./chating.svg](https://d2ut7x8yqv441q.cloudfront.net/github/chating.svg)\r ##",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
