@@ -9,19 +9,24 @@ const START_MARKER = '## Latest Blog Posts';
 (async () => {
     const feed = await parser.parseURL(RSS_URL);
 
+    // 최신 5개 리스트 작성
     const lines = [];
     lines.push(`${START_MARKER}\n`);
     feed.items.slice(0, NUM_POSTS).forEach(item => {
         lines.push(`- [${item.title}](${item.link})`);
     });
-    lines.push('\n');
+    lines.push(''); // 빈 줄
 
+    // README 파일 읽기
     const readme = fs.readFileSync('README.md', { encoding: 'utf-8' }).split('\n');
     let startIdx = readme.findIndex(line => line.trim().startsWith(START_MARKER));
 
     if (startIdx !== -1) {
         let endIdx = startIdx + 1;
-        while (endIdx < readme.length && readme[endIdx].startsWith('- ')) {
+        while (
+            endIdx < readme.length &&
+            !(readme[endIdx].startsWith('## ') && endIdx !== startIdx + 1)
+        ) {
             endIdx += 1;
         }
         const before = readme.slice(0, startIdx);
