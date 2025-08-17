@@ -8,8 +8,6 @@
 
 포트폴리오: https://stealth-silicon-085.notion.site/20c3f6eec87b800580c2d4686640e284/
 
-경력기술서: https://parkjeehoon-career-description.vercel.app/
-
 <br />
 
 ## Latest Blog Posts
