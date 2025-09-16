@@ -2,7 +2,7 @@ const fs = require('fs');
 const Parser = require('rss-parser');
 const parser = new Parser();
 
-const RSS_URL = 'https://www.baakhan.com/rss.xml';
+const RSS_URL = 'https://blog.baakhan.com/rss.xml';
 const NUM_POSTS = 5;
 const START_MARKER = '## Latest Blog Posts';
 
