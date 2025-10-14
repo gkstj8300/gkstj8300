@@ -5,7 +5,7 @@
 
 ## Link
 
-- 기술블로그: https://www.baakhan.com/
+- 개인 모노레포 사이트: https://www.baakhan.com/
 - 포트폴리오: https://stealth-silicon-085.notion.site/20c3f6eec87b800580c2d4686640e284/
 
 <br />
